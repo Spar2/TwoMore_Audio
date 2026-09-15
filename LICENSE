@@ -1,0 +1,40 @@
+TwoMore Audio — Proprietary Binary License
+Copyright (c) 2026 Spar2. All rights reserved.
+
+This license applies to the compiled TwoMore Audio binaries distributed by the
+copyright holder. The TwoMore Audio source code is private and is not included
+with the binaries.
+
+1. Permission
+
+The copyright holder grants you a limited, non-exclusive, non-transferable
+license to install and use an unmodified TwoMore Audio binary for personal
+evaluation and internal use on Windows.
+
+2. Restrictions
+
+You may not copy, modify, adapt, reverse engineer, decompile, disassemble,
+redistribute, sublicense, sell, rent, host, or incorporate the software into
+another product, except to the extent that a restriction is prohibited by
+applicable law. You may not remove copyright, attribution, or license notices.
+
+3. Third-party software
+
+TwoMore Audio does not bundle a virtual audio cable or third-party codec.
+Optional products mentioned in the documentation remain subject to their own
+licenses and must be obtained from their respective vendors.
+
+4. Warranty and liability
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER IS NOT
+LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR
+ITS USE.
+
+5. Termination
+
+This license terminates automatically if you materially breach its terms. Upon
+termination, stop using and delete the affected binaries.
+
+For permission beyond this license, contact the copyright holder through the
+project's GitHub profile.

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+  <rect width="1200" height="330" fill="#0f131c"/>
+  <style>.t{font:18px 'Segoe UI',sans-serif;fill:#f1f4fa}.s{font:14px 'Segoe UI',sans-serif;fill:#aab3c5}.p{fill:#181e29;stroke:#30394a}.g{fill:#153e31}.a{fill:#3a2e16}</style>
+  <text x="32" y="38" class="t">System-wide routing — mock/demo</text>
+  <rect x="32" y="62" width="520" height="230" rx="14" class="p"/>
+  <text x="56" y="96" class="t">Guided setup</text>
+  <rect x="56" y="116" width="470" height="34" rx="7" class="g"/><text x="70" y="139" class="s">✓ Virtual cable detected: CABLE Output</text>
+  <rect x="56" y="158" width="470" height="34" rx="7" class="g"/><text x="70" y="181" class="s">✓ Cable INPUT is Windows default</text>
+  <rect x="56" y="200" width="470" height="34" rx="7" class="g"/><text x="70" y="223" class="s">✓ Two real Bluetooth outputs; no loop</text>
+  <rect x="56" y="246" width="170" height="32" rx="7" fill="#167454"/><text x="72" y="268" class="s">Start system-wide</text>
+  <rect x="584" y="62" width="584" height="230" rx="14" class="p"/>
+  <text x="608" y="96" class="t">● Capturing system audio — 48 kHz stereo</text>
+  <text x="608" y="132" class="t" fill="#7de3b7">Quality: good</text>
+  <text x="608" y="168" class="s">● green  Ear (stick) • underruns 0 • fill 55% • codec unknown</text>
+  <text x="608" y="200" class="s">● green  Bose QC Ultra • underruns 0 • drift ~4 ms</text>
+  <rect x="608" y="226" width="120" height="34" rx="7" fill="#254b77"/><text x="620" y="249" class="s">Video ~120 ms</text>
+  <rect x="746" y="226" width="120" height="34" rx="7" class="a"/><text x="765" y="249" class="s">Stability 5 min</text>
+</svg>

@@ -1,0 +1,31 @@
+﻿{
+    "product":  "TwoMore Audio",
+    "version":  "0.7.0",
+    "architecture":  "windows-x64",
+    "artifact":  "TwoMoreAudio-0.7.0-windows-x64-portable.zip",
+    "sha256":  "33bde2d3dd79fd8790831a99e0ba1ed196de741f7886e18d119ab28e0c5781de",
+    "source_revision":  "fcfcb7a35964adaf537ccdbad9046d67f5b4315b",
+    "embedded_build_commit":  "fcfcb7a35964",
+    "source_included":  false,
+    "contents":  [
+                     "build-metadata.txt",
+                     "collect-support-bundle.ps1",
+                     "docs/architecture.md",
+                     "docs/diagnostics.md",
+                     "docs/gui.md",
+                     "docs/images/gui-demo.svg",
+                     "docs/images/gui-v07-dark.png",
+                     "docs/images/gui-workflows.svg",
+                     "docs/images/systemwide-demo.svg",
+                     "docs/quality.md",
+                     "docs/release-notes.md",
+                     "docs/systemwide.md",
+                     "docs/troubleshooting.md",
+                     "LICENSE",
+                     "portable.txt",
+                     "README.md",
+                     "THIRD_PARTY_NOTICES.md",
+                     "tools/twomore-cli.exe",
+                     "twomore-gui.exe"
+                 ]
+}
