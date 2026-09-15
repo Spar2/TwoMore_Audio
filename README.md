@@ -11,8 +11,8 @@ code is intentionally not distributed.
 
 Get the latest build from the [GitHub Releases page](https://github.com/Spar2/TwoMore_Audio/releases/latest).
 
-- **Portable ZIP** вЂ” unpack it and run `twomore-gui.exe`.
-- **SHA-256 file and JSON manifest** вЂ” verify the exact artifact contents.
+- **Portable ZIP** — unpack it and run `twomore-gui.exe`.
+- **SHA-256 file and JSON manifest** — verify the exact artifact contents.
 
 The current verified distribution is portable. A signed installer may be
 published separately after its Windows installation and upgrade path has been
