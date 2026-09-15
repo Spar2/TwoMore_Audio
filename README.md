@@ -9,7 +9,7 @@ code is intentionally not distributed.
 
 ## Download
 
-Get the latest build from [the release assets](releases/).
+Get the latest build from the [GitHub Releases page](https://github.com/Spar2/TwoMore_Audio/releases/latest).
 
 - **Portable ZIP** вЂ” unpack it and run `twomore-gui.exe`.
 - **SHA-256 file and JSON manifest** вЂ” verify the exact artifact contents.
